@@ -1,0 +1,8 @@
+name: mybinder-env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
